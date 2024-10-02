@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 28 Sep 2024 15:52:35 at https://www.techpile.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.techpile.in/ -O1 "C:\My Web Sites\Templates" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:53:44	Error: 	"Not Found" (404) at link https://cdn.jsdelivr.net/npm/popperjs/core@2.9.3/dist/umd/popper.min.js (from https://www.techpile.in/)
+16:01:41	Error: 	"Not Found" (404) at link https://www.techpile.in/Content/css/slick.css (from https://www.techpile.in/)
+16:01:41	Error: 	"Not Found" (404) at link https://www.techpile.in/Content/css/slick-theme.css (from https://www.techpile.in/)
+16:01:41	Error: 	"Forbidden" (403) at link https://www.techpile.in/Content/ReviewPic/ (from https://www.techpile.in/)
+16:01:41	Error: 	"Not Found" (404) at link https://www.techpile.in/Content/js/slick.js (from https://www.techpile.in/)
+16:01:51	Error: 	"Not Found" (404) at link https://www.techpile.in/Content/css/img/call-bg.jpg (from https://www.techpile.in/Content/css/new.css)
+16:01:51	Error: 	"Not Found" (404) at link https://www.techpile.in/Content/css/img/newsletter.jpg (from https://www.techpile.in/Content/css/new.css)
+16:01:51	Error: 	"Not Found" (404) at link https://www.techpile.in/Content/img/backGround/landing-banner1.png (from https://www.techpile.in/Content/css/mainAj.css)
+16:01:51	Error: 	"Not Found" (404) at link https://www.techpile.in/Content/css/img/service-section-bottom.png (from https://www.techpile.in/Content/css/mainAj.css)
+16:01:51	Error: 	"Not Found" (404) at link https://www.techpile.in/Content/img/getEnrollBg.png (from https://www.techpile.in/Content/css/mainAj.css)
+16:01:51	Error: 	"Not Found" (404) at link https://www.techpile.in/digital-certificate/certificate.pdf (from https://www.techpile.in/digital-certificate/)
+16:01:51	Error: 	"Not Found" (404) at link https://www.techpile.in/about-us/~/Contact-us (from https://www.techpile.in/about-us/)
+16:01:52	Error: 	"Not Found" (404) at link https://www.techpile.in/campus-placement/news-single.html (from https://www.techpile.in/campus-placement/)
+16:01:53	Error: 	"Not Found" (404) at link https://www.techpile.in/signup/Home/courses (from https://www.techpile.in/signup/)
+16:02:00	Error: 	"Bad Request" (400) at link https://www.techpile.in/chrome-extension:// (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:02:00	Error: 	"Not Found" (404) at link https://www.techpile.in/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:02:00	Error: 	"Bad Request" (400) at link https://www.techpile.in/^([^:/? (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:02:00	Error: 	"Not Found" (404) at link https://www.techpile.in/GET (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:02:00	Error: 	"Not Found" (404) at link https://www.techpile.in/restserver.php (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:02:00	Error: 	"Not Found" (404) at link https://www.techpile.in/dialog/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:02:00	Error: 	"Not Found" (404) at link https://www.techpile.in/rsrc.php/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 21 seconds : 1059 links scanned, 1037 files written (178462652 bytes overall) [176639553 bytes received at 259382 bytes/sec], 2965002 bytes transferred using HTTP compression in 24 files, ratio 24%, 1.0 requests per connection
+(21 errors, 0 warnings, 0 messages)

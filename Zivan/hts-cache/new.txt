@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:35:43	162/162	---MCZ	403	error ('Forbidden')	text/html	date:Wed,%2002%20Oct%202024%2008:05:45%20GMT	https://html.laralink.com/zivan/tech-startup-light.html	C:/My%20Web%20Sites/Zivan/html.laralink.com/zivan/tech-startup-light.0.delayed	(from )
+13:35:44	122/122	---MCZ	403	error ('Forbidden')	text/html	date:Wed,%2002%20Oct%202024%2008:05:46%20GMT	https://html.laralink.com/robots.txt		(from )

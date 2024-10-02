@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	lD64S%2FFRq7FIXO5zWTjzZZ3I0hIJq0K3R5WIXkdWVaBPv0%2BqHOWhy54doGIvuQxT03BmxF8RhSzrAYcbeItxH6HLpqPD9DrR7FKFb4D7zdVgLV2JKxSRWBU9zoVRgp8qodknrnkWMHM0bQgfzFas%2Fk5tQ7OD4e4u%2FX%2FomHRa3u7flKAff99SMNMteYiE9OUdoO1gyffsEfVPTprs80xtHMmEWtSDlfIY0ueELMerVI0hJESnXpyUgun1phZ7UukXKlShii515dD1%2F%2BgLGCOcqg%3D%3D--6E5dlp9pMkQrJyNx--IG0tNZcjVEXMShZEjRs5Vg%3D%3D
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.1698851019.1727527747
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+travis-ci.com	TRUE	/	FALSE	1999999999	UTMSession	utm_campaign%3D%26utm_content%3D%26utm_medium%3Dreferral%26utm_source%3Dgithub.com%26utm_term%3D
+www.travis-ci.com	TRUE	/	FALSE	1999999999	PHPSESSID	20ku1u1dat1ue7jeqs3h5rkjpe
+badge.fury.io	TRUE	/	FALSE	1999999999	_session_uuid	ad9344b9-7754-4f4b-9cd4-8cc27283384c
+badge.fury.io	TRUE	/	FALSE	1999999999	_sid	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkltRmtPVE0wTkdJNUxUYzNOVFF0TkdZMFlpMDVZMlEwTFRoall6STNNamd6TXpnMFl5ST0iLCJleHAiOiIyMDI1LTA5LTI4VDEzOjAxOjU2LjA0NFoiLCJwdXIiOm51bGx9fQ%3D%3D--2ea6c0eb159824b8b2ec080722c326bb98dd1f14
+.npmjs.com	TRUE	/	FALSE	1999999999	__cf_bm	bQvMeUiStlSRLi3xp7T_ZGCWmnadL.gl4P068yTI3wE-1727528523-1.0.1.1-eO9Q_ZhkRKStndl7yPrP4acXRN74_5e1Ao8hQvkg._AqFE3znuLDSELLTqVrMn8DVIH7gUfjt2HvhqicCZMETg
+.npmjs.com	TRUE	/	FALSE	1999999999	__cfruid	59f57f58b8a235d0215b005a1300625dd66a58f7-1727528523
+www.npmjs.com	TRUE	/	FALSE	1999999999	SameSite	None
+.runkit.com	TRUE	/	FALSE	1999999999	session	s%3A66f800b5b743450008c502e0.p5WdrmwUTb8%2Fv9ozwKTpYjRp8jrwu6tei%2FfclYxTvi0
+

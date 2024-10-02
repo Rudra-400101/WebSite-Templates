@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/stevenschobert/instafeed.js/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/stevenschobert/instafeed.js/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/stevenschobert/instafeed.js/releases.atom"/>
+  <title>Release notes from instafeed.js</title>
+  <updated>2021-05-31T17:14:45Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v2.0.0</id>
+    <updated>2021-05-31T17:16:17Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v2.0.0"/>
+    <title>v2.0.0</title>
+    <content type="html">&lt;p&gt;Official v2 release 🎉&lt;/p&gt;
+&lt;p&gt;If you are migrating from v1, see the &lt;a href=&quot;https://github.com/stevenschobert/instafeed.js/wiki/Version-2-migration-guide#comparison-of-options-between-v1-and-v2&quot;&gt;v2 migration guide&lt;/a&gt;.&lt;/p&gt;</content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v2.0.0-rc3</id>
+    <updated>2020-11-11T03:25:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v2.0.0-rc3"/>
+    <title>v2.0.0-rc3</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;Fixes &lt;code&gt;assignment to undeclared variable match&lt;/code&gt; bug.&lt;/li&gt;
+&lt;li&gt;Adds ES module support by building a separate distributable &lt;code&gt;instafeed.es.min.js&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Re-adds pagination support via &lt;code&gt;hasNext&lt;/code&gt; and &lt;code&gt;next&lt;/code&gt; methods.&lt;/li&gt;
+&lt;li&gt;Adds &lt;code&gt;apiLimit&lt;/code&gt; option to override how many images are requested from the Instagram API. This option supersedes the &lt;code&gt;limit&lt;/code&gt; option.&lt;/li&gt;
+&lt;li&gt;Adds pooling support when &lt;code&gt;apiLimit&lt;/code&gt; is higher than &lt;code&gt;limit&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v2.0.0-rc2</id>
+    <updated>2020-05-18T13:05:24Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v2.0.0-rc2"/>
+    <title>v2.0.0-rc2</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;Adds &lt;code&gt;before&lt;/code&gt; callback option that was missing from &lt;code&gt;2.0.0-rc1&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Fixes &lt;code&gt;Invalid State Error&lt;/code&gt; bug in Internet Explorer. Thanks &lt;a href=&quot;https://github.com/awoodford&quot;&gt;@awoodford&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Hashtags are now parsed from the image caption, and made available as a &lt;code&gt;tags&lt;/code&gt; array on the image data.&lt;/li&gt;
+&lt;li&gt;Changed default timeout options &lt;code&gt;apiTimeout&lt;/code&gt; and &lt;code&gt;accessTokenTimeout&lt;/code&gt; from &lt;code&gt;5000&lt;/code&gt; (5 seconds) to &lt;code&gt;10000&lt;/code&gt; (10 seconds)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v2.0.0rc1</id>
+    <updated>2020-03-30T15:43:11Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v2.0.0rc1"/>
+    <title>Basic Display API Release Candidate 1</title>
+    <content type="html">&lt;p&gt;Instafeed.js v2, powered by the new Instagram Basic Display API.&lt;/p&gt;</content>
+    <author>
+      <name>benjamin-hull</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/53896?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v1.4.1</id>
+    <updated>2015-11-10T07:09:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v1.4.1"/>
+    <title>v1.4.1</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;Fixes an issue where some data used in templates would get incorrectly escaped.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v1.4.0</id>
+    <updated>2015-11-02T16:07:19Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v1.4.0"/>
+    <title>v1.4.0</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;accessToken&lt;/code&gt; is no longer required to fetch images from user accounts!&lt;/li&gt;
+&lt;li&gt;New template helpers for working with the new portrait and landscape images.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;target&lt;/code&gt; can now accept a DOM node directly, instead of just a string ID, thanks &lt;a href=&quot;https://github.com/juhamust&quot;&gt;@juhamust&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;Squashed the last (hopefully!) of the IE8 bugs.&lt;/li&gt;
+&lt;li&gt;Fixed image loading errors when using Instafeed.js on a local file protocol (&lt;code&gt;file://&lt;/code&gt;). Thanks &lt;a href=&quot;https://github.com/spoonben&quot;&gt;@spoonben&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;Added support from AMD and CommonJS.&lt;/li&gt;
+&lt;li&gt;Improved error messaging when Instafeed.js can&#39;t find it&#39;s target element on the page.&lt;/li&gt;
+&lt;li&gt;Instafeed.js no longer complains when trying to use strings for the &lt;code&gt;userId&lt;/code&gt;, &lt;code&gt;locationId&lt;/code&gt;, and &lt;code&gt;limit&lt;/code&gt; options.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v1.3.2</id>
+    <updated>2014-04-22T04:30:38Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v1.3.2"/>
+    <title>v1.3.2</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;Fixed the &lt;code&gt;useHttp&lt;/code&gt; option when no template is set. Thanks &lt;a href=&quot;https://github.com/bartekn&quot;&gt;Bartek Nowotarski&lt;/a&gt;!&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v1.3.1</id>
+    <updated>2014-03-31T04:14:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v1.3.1"/>
+    <title>v1.3.1</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;Fixed an issue where &lt;code&gt;sortBy: &quot;most-recent&quot;&lt;/code&gt; did not always correctly sort the images. Thanks&lt;br&gt;
+&lt;a href=&quot;https://github.com/neilcampbell&quot;&gt;Neil Campbell&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;Changed the default &lt;code&gt;sortBy&lt;/code&gt; option to be &lt;code&gt;none&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v1.3.0</id>
+    <updated>2014-03-22T22:32:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v1.3.0"/>
+    <title>v1.3.0</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;Image URLs are now protocol-relative by default. Use the new &lt;code&gt;useHttp&lt;/code&gt; option to disable.&lt;/li&gt;
+&lt;li&gt;Added the ability to filter out images using the &lt;code&gt;filter&lt;/code&gt; option.&lt;/li&gt;
+&lt;li&gt;Added pagination support using &lt;code&gt;.next()&lt;/code&gt; and &lt;code&gt;.hasNext()&lt;/code&gt; methods.&lt;/li&gt;
+&lt;li&gt;Removed the default &lt;code&gt;limit&lt;/code&gt; of 15 images. The option is still supported, but by default no limit&lt;br&gt;
+is sent to the API.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v1.2.1</id>
+    <updated>2014-01-15T19:41:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v1.2.1"/>
+    <title>v1.2.1</title>
+    <content type="html">&lt;p&gt;version 1.2.1&lt;/p&gt;</content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+</feed>

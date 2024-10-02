@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/stevenschobert/instafeed.js/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/stevenschobert/instafeed.js/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/stevenschobert/instafeed.js/releases.atom"/>
+  <title>Tags from instafeed.js</title>
+  <updated>2021-05-31T17:14:45Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v2.0.0</id>
+    <updated>2021-05-31T17:16:17Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v2.0.0"/>
+    <title>v2.0.0</title>
+    <content></content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v2.0.0-rc3</id>
+    <updated>2020-11-11T03:25:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v2.0.0-rc3"/>
+    <title>v2.0.0-rc3</title>
+    <content></content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v2.0.0-rc2</id>
+    <updated>2020-05-18T13:05:24Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v2.0.0-rc2"/>
+    <title>v2.0.0-rc2</title>
+    <content></content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v2.0.0rc1</id>
+    <updated>2020-03-30T15:43:11Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v2.0.0rc1"/>
+    <title>Basic Display API Release Candidate 1</title>
+    <content></content>
+    <author>
+      <name>benjamin-hull</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/53896?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v1.4.1</id>
+    <updated>2015-11-10T07:09:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v1.4.1"/>
+    <title>v1.4.1</title>
+    <content></content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v1.4.0</id>
+    <updated>2015-11-02T16:07:19Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v1.4.0"/>
+    <title>v1.4.0</title>
+    <content></content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v1.3.2</id>
+    <updated>2014-04-22T04:30:38Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v1.3.2"/>
+    <title>v1.3.2</title>
+    <content></content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v1.3.1</id>
+    <updated>2014-03-31T04:14:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v1.3.1"/>
+    <title>v1.3.1</title>
+    <content></content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v1.3.0</id>
+    <updated>2014-03-22T22:32:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v1.3.0"/>
+    <title>v1.3.0</title>
+    <content></content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/6477953/v1.2.1</id>
+    <updated>2014-01-15T19:41:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stevenschobert/instafeed.js/releases/tag/v1.2.1"/>
+    <title>v1.2.1</title>
+    <content></content>
+    <author>
+      <name>stevenschobert</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/896486?s=60&amp;v=4"/>
+  </entry>
+</feed>

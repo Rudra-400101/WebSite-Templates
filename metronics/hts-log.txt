@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 28 Sep 2024 16:58:21 at https://keenthemes.com/metronic/tailwind/demo1/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://keenthemes.com/metronic/tailwind/demo1/ -O1 "C:\My Web Sites\metronics" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:01:34	Error: 	"UNKNOWN" (310) at link https://keenthemes.com/metronic/tailwind/demo1/authentication/error-404 (from https://keenthemes.com/metronic/tailwind/demo1/)
+17:01:34	Error: 	"UNKNOWN" (310) at link https://keenthemes.com/metronic/tailwind/demo1/authentication/error-500 (from https://keenthemes.com/metronic/tailwind/demo1/)
+17:01:39	Error: 	"NOT FOUND" (404) at link https://keenthemes.com/metronic/tailwind/demo1/security/security-log/index.html (from https://keenthemes.com/metronic/tailwind/demo1/account/security/current-sessions)
+17:01:40	Error: 	"NOT FOUND" (404) at link https://keenthemes.com/static/metronic/tailwind/dist/assets/vendors/leaflet/images/layers.png (from https://keenthemes.com/static/metronic/tailwind/dist/assets/vendors/leaflet/leaflet.bundle.css)
+17:01:40	Error: 	"NOT FOUND" (404) at link https://keenthemes.com/static/metronic/tailwind/dist/assets/vendors/leaflet/images/layers-2x.png (from https://keenthemes.com/static/metronic/tailwind/dist/assets/vendors/leaflet/leaflet.bundle.css)
+17:01:40	Error: 	"NOT FOUND" (404) at link https://keenthemes.com/static/metronic/tailwind/dist/assets/vendors/leaflet/images/marker-icon.png (from https://keenthemes.com/static/metronic/tailwind/dist/assets/vendors/leaflet/leaflet.bundle.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 19 seconds : 266 links scanned, 259 files written (46777019 bytes overall) [20312238 bytes received at 102071 bytes/sec], 29252499 bytes transferred using HTTP compression in 119 files, ratio 8%, 22.1 requests per connection
+(6 errors, 0 warnings, 0 messages)
